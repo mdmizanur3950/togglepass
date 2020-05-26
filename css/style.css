@@ -1,0 +1,24 @@
+
+
+  .main {
+    background: linear-gradient(#0C4056,#16516a);
+    color: #232323;
+  }
+
+  .main .row {
+    min-height: 100vh;
+  }
+
+  .form-box span {
+    cursor: pointer;
+  }
+
+  .error {
+    color: #FB2162;
+    display: none;
+  }
+
+  input:focus {
+    box-shadow: none !important;
+    border-color: #fff !important;
+  }
